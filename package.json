@@ -1,0 +1,19 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "This is a my first website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montudey/mywebsite.git"
+  },
+  "author": "Mrinab Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montudey/mywebsite/issues"
+  },
+  "homepage": "https://github.com/montudey/mywebsite#readme"
+}
